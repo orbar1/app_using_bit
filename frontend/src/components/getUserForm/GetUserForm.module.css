@@ -1,0 +1,49 @@
+.form-heading {
+	font-size: 3.2rem;
+	color: #333;
+	font-weight: 600;
+}
+
+.user-details {
+	margin: 3rem auto 2rem auto;
+	display: flex;
+	flex-direction: column;
+	padding: 3.2rem;
+	background-color: #eee;
+	border-radius: 5px;
+}
+
+.user-details-heading {
+	font-size: 2.4rem;
+	color: #099268;
+	font-weight: 500;
+	margin-bottom: 1.6rem;
+}
+
+.user-details-table {
+	font-size: 1.6rem;
+}
+
+.user-details-table th,
+.user-details-table td {
+	padding: 0.4rem 1rem;
+	text-align: left;
+}
+
+.user-details-table th {
+	padding-left: 0;
+}
+
+.user-details-table td {
+	padding-right: 0;
+}
+
+.error {
+	font-size: 2.4rem;
+	color: #fa5252;
+}
+
+.loading {
+	font-size: 2.4rem;
+	color: #099268;
+}
