@@ -3,10 +3,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
-		"@orbar/bit-react-components.ui.button": "0.0.2",
-		"@orbar/bit-react-components.ui.container": "0.0.1",
-		"@orbar/bit-react-components.ui.input": "0.0.2",
-		"@orbar/bit-react-components.ui.navigation": "0.0.3",
+		"@orbar/bit-react-components.app.user-service": "0.0.4",
 		"@testing-library/jest-dom": "^5.16.1",
 		"@testing-library/react": "^12.1.2",
 		"@testing-library/user-event": "^13.5.0",

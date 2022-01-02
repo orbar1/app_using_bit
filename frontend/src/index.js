@@ -1,6 +1,7 @@
 import ReactDOM from 'react-dom';
 
-import './index.css';
-import App from './App';
+import { UserService } from '@orbar/bit-react-components.app.user-service';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+import './index.css';
+
+ReactDOM.render(<UserService />, document.getElementById('root'));

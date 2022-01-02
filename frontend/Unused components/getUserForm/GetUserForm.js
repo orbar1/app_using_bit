@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import useGetUser from '../../hooks/useGetUser';
+import useGetUser from '../hooks/useGetUser';
 import { Input } from '@orbar/bit-react-components.ui.input/dist/input';
 import { Button } from '@orbar/bit-react-components.ui.button/dist/button';
 

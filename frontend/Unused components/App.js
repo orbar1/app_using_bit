@@ -2,8 +2,8 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import { Navigation } from '@orbar/bit-react-components.ui.navigation/dist/navigation';
 import { Container } from '@orbar/bit-react-components.ui.container/dist/container';
-import UserCreationForm from './components/UserCreationForm/UserCreationForm';
-import GetUserForm from './components/getUserForm/GetUserForm';
+import UserCreationForm from './UserCreationForm/UserCreationForm';
+import GetUserForm from './getUserForm/GetUserForm';
 
 function App() {
 	return (

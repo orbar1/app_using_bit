@@ -11,6 +11,9 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"@orbar/bit-node-components.app.user-service": "0.0.2",
+		"@orbar/bit-node-components.models.user-model": "0.0.3",
+		"@orbar/bit-node-components.routes.user-routes": "0.0.1",
 		"body-parser": "^1.19.1",
 		"express": "^4.17.2",
 		"mongoose": "^6.1.4",

@@ -45,7 +45,7 @@ const UserCreationForm = props => {
 		setIsSending(true);
 
 		try {
-			const res = await fetch('http://localhost:3000/api/v1/users', {
+			const res = await fetch('http://localhost:3000/addUser', {
 				method: 'POST',
 				headers: {
 					'Content-Type': 'application/json'
